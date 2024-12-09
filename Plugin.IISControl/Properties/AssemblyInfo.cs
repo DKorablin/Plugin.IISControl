@@ -18,5 +18,5 @@ using System.Runtime.InteropServices;
 #endif
 [assembly: AssemblyCompany("Danila Korablin")]
 [assembly: AssemblyProduct("Plugin.IISControl")]
-[assembly: AssemblyCopyright("Copyright © Danila Korablin 2011-2015")]
+[assembly: AssemblyCopyright("Copyright © Danila Korablin 2011-2024")]
 #endif
